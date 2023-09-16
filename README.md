@@ -43,7 +43,7 @@ The `diabetes_prediction.py` script utilizes the scikit-learn library to build a
    Run the `app.py` script:
 
    ```bash
-   python diabetes_prediction.py
+   python app.py
    ```
 
    Follow the prompts to input your data and observe the prediction.
