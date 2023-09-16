@@ -40,7 +40,7 @@ The `diabetes_prediction.py` script utilizes the scikit-learn library to build a
 
 3. **Run the Script:**
 
-   Run the `diabetes_prediction.py` script:
+   Run the `app.py` script:
 
    ```bash
    python diabetes_prediction.py
