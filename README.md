@@ -1,6 +1,8 @@
-# Diabates-Predictive-Model.
+# Diabates-Predictive-Model
 
 Of course! Below is a README template you can use for your GitHub repository that explains the purpose of the script, how to use it, and any additional information you'd like to provide to users:
+
+Link: https://diabates-predictive-model.streamlit.app/
 
 ---
 
